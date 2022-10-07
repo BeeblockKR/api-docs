@@ -10,7 +10,7 @@
 * The limits on the API are based on the the API keys.
 
 * To ensure the quality and reliability of our API service, the API calls are limited to a certain rate threshold. 
-  All calls combined, are limited to 20 calls per 1 second.
+* All calls combined, are limited to 20 calls per 1 second.
 
 Name | Description
 ------------ | ------------ 
