@@ -6,6 +6,12 @@
 
 * The base endpoint is: https://api.beeblock.co.kr
 
+**API call rate limit**
+* The limits on the API are based on the the API keys.
+
+* To ensure the quality and reliability of our API service, the API calls are limited to a certain rate threshold. 
+  All calls combined, are limited to 20 calls per 1 second.
+
 Name | Description
 ------------ | ------------ 
 [public-rest-api.md](./public-rest-api.md) | Details on the Public Rest API (Public)
